@@ -9,8 +9,8 @@ permalink:           pretty
 
 # Setup
 title:               "AJ's"
-tagline:             'Bits & Bobs'
-description:         'Bits & Bobs <br>written by <a href="https://github.com/rerel">AJ</a><br>'
+tagline:             'Bric-à-brac'
+description:         'Bric-à-brac (Bits & Bobs) <br>written by <a href="https://github.com/rerel">AJ</a><br>'
 url:                 'http://rerel.github.io'
 baseurl:             /
 paginate:            1
